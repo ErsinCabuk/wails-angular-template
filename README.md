@@ -24,7 +24,7 @@ Before you start, make sure you have the following installed on your system:
 To create a new Wails project using this template, simply run the following command in your terminal:
 
 ```bash
-wails init -n my-project -t [https://github.com/ErsinCabuk/wails-angular-template](https://github.com/ErsinCabuk/wails-angular-template)
+wails init -n my-project -t https://github.com/ErsinCabuk/wails-angular-template
 ```
 
 ## 🔄 Keeping Angular Up to Date
